@@ -1,5 +1,7 @@
 # AaltoAI — Events page
 
+**Check the before-after video here: https://youtu.be/4d_mnkJEDUQ?si=aFzX70dFIjslmk53**
+
 Next.js 15 (App Router) · React 18 · TypeScript · Tailwind CSS · shadcn-style components
 
 ## Run it
